@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "argparse": "^2.0.1",
+    "beautify": "^0.0.8",
+    "brnfckr": "^0.1.1",
+    "log4js": "^6.6.1",
+    "node-fetch": "^3.2.6"
+  }
+}
