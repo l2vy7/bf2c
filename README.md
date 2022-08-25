@@ -56,7 +56,8 @@ bf2c -i ./hworld.bf -e -o ./hworld.c
 bf2c -i ./hworld.bf -p -o ./hworld.c
 </code>
 <p>Use like:</p>
-<code>
+
+```
 @compress;
 @include "./whatever/extension.bf";
 
@@ -65,5 +66,5 @@ bf2c -i ./hworld.bf -p -o ./hworld.c
   printf('Hello, World!');
 @bf;
 @return;
-</code>
+```
 
